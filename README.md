@@ -51,3 +51,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
 </p>
+
+  ---
+<br>
+<a href="https://github.com/Justine2403">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justine2403&layout=compact&theme=transparent&langs_count=8" alt="Justine2403's GitHub Stats"/>
+</a>
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Du-Jack&show_icons=true&theme=transparent" />
+</a> -->
+  <h4>Tools: </h4>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
