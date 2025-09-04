@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Justine !</h1>
-<h3 align="center">An engineer student passionate about AI, data and Web development</h3>
+<h3 align="center">An engineer student passionate about AI, Data and Web development</h3>
 
 <p align="left">
 </p>
