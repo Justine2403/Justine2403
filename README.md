@@ -22,10 +22,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/> 
   </div>
 
-  <h4>Data & Artificial Intelligence: </h4>
+  <h4>Data: </h4>
   <div>
     <img src ="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" title="SQL" alt="SQL"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title ="Pandas" alt="pandas" width="40" height="40"/> 
+  </div>
+  
+  <h4>Artificial Intelligence: </h4>
+
+  <div>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title ="Pytorch" alt="pytorch" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title ="scikit-learn" alt="scikit_learn" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title ="TensorFlow" alt="tensorflow" width="40" height="40"/> 
