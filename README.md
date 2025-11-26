@@ -45,8 +45,7 @@
 </p>
 
   ---  
-<a href="https://github.com/Justine2403">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justine2403&layout=compact&theme=transparent&langs_count=8" alt="Justine2403's GitHub Stats"/>
-</a>
+  ![Justine2403's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Justine2403&layout=compact)
+
 
 
