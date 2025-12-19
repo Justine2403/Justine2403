@@ -24,7 +24,9 @@
 
 <h4>Tools: </h4>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title ="Matlab" alt="matlab" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title ="Matlab" alt="Matlab" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" title ="Jira" alt="Jira" width="40" height="40"/> 
+
 </div>
 
 ---
