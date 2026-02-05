@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   ₊⊹ <i> Curious and always learning new technologies... Currently exploring the world of <b>Data Engineering </b> </i> ⊹₊ 
+   ₊⊹ <i> Curious and always wanting to learn new technologies... Currently exploring the world of <b>Data Engineering </b> </i> ⊹₊ 
 </p>
   
 ## Programming Languages
