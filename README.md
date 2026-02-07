@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
 </p>
 
-## Data & AI
+## Data
 <p>
   <img src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" title="SQL" alt="SQL"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
