@@ -24,6 +24,7 @@
 <p>
   <img src="https://github.com/github/explore/blob/main/topics/sql/sql.png?raw=true" title="SQL" alt="SQL"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/> 
 </p>
 
